@@ -1,0 +1,18 @@
+.list {
+    width: 600px;
+    margin: 0 auto;
+    box-shadow: 2px 2px 2px 2px #333;
+}
+.cell {
+    display: inline-block;
+    width: 150px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.row.header {
+    font-weight: bold;
+    background-color: #cecece;
+}
+.row {
+    border-bottom: solid 1px #cecece;
+}
